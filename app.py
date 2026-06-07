@@ -149,7 +149,7 @@ html_content = '''
     <div class="box">
         <h2>FB CONVO SERVER2</h2>
         <p>Offline FB inbox/group messaging via token.</p>
-        <a class="btn token-btn" href="http://de3.bot-hosting.net:21042/">FB OFFLINE SERVER2</a>
+        <a class="btn token-btn" href="http://fi9.bot-hosting.net:20835/">FB OFFLINE SERVER2</a>
     </div>
     <div class="box">
         <h2>GROUP UID FINDER</h2>
